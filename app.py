@@ -37,3 +37,9 @@ if user_input:
     st.write(f"Recommendations for you: \n {recommendations}")
 else:
     st.write(' ')
+    
+# Pushing into GIT-HUB
+# 1. git init
+# 2. git add . (adding all the files)
+# 3. git commit -m "Final-Stage" (This message is stored somewhere) - This is final commit
+# 4. git push origin main 

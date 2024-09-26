@@ -1,6 +1,8 @@
 streamlit              # for Front End
 google-generativeai    # for Generative AI Model
 python-dotenv          # for Local Environment
+langchain
+langchain-google-genai
 
 # pip install -r requirements.txt      # Installing all the required libraries
 

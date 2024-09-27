@@ -10,3 +10,4 @@ git init
 git add .
 git config --global user.email "natramizh.sukumar@gmail.com"
 git commit -m "Final-Stage"
+git push origin main
